@@ -1,0 +1,7 @@
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\bin\Debug\aprendendocsharp.exe.config
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\bin\Debug\aprendendocsharp.exe
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\bin\Debug\aprendendocsharp.pdb
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\obj\Debug\aprendendocsharp.csproj.AssemblyReference.cache
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\obj\Debug\aprendendocsharp.csproj.CoreCompileInputs.cache
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\obj\Debug\aprendendocsharp.exe
+C:\Users\joao.gferreira6\source\repos\aprendendocsharp\aprendendocsharp\obj\Debug\aprendendocsharp.pdb

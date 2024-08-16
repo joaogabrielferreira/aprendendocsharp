@@ -1,0 +1,5 @@
+﻿Escreva = Console.Write("Hello World");
+Leia = Console.Read();
+Escreval = Console.WriteLine("Hello World");
+Leia tecla = Console.ReadKey();
+Leia até dar enter = Console.ReadLine();
